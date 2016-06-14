@@ -1,4 +1,4 @@
-package main.java.servicelocator;
+package servicelocator;
 
 import java.util.ArrayList;
 import java.util.List;

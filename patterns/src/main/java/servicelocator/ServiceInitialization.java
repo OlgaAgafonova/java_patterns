@@ -1,4 +1,4 @@
-package main.java.servicelocator;
+package servicelocator;
 
 public class ServiceInitialization {
 

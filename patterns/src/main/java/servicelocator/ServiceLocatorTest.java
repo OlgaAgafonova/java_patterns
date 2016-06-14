@@ -1,6 +1,6 @@
-package main.java.servicelocator;
+package servicelocator;
 
-public class ShowWork {
+public class ServiceLocatorTest {
     public static void main(String[] args) {
         Service service = ServiceLocator.getService("ServiceOne");
         service.execute();
