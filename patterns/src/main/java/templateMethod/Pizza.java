@@ -23,6 +23,6 @@ public abstract class Pizza {
     }
 
     protected void addToppings() {
-        System.out.println("Adding Topinngs!");
+        System.out.println("Adding Toppings!");
     }
 }
