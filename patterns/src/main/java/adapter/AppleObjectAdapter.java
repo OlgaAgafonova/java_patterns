@@ -1,6 +1,7 @@
 package adapter;
 
 public class AppleObjectAdapter implements Apple {
+
     Orange orange;
 
     public AppleObjectAdapter(Orange orange) {
